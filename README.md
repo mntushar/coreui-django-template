@@ -1,0 +1,1 @@
+# coreui-django-template
